@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".NET4.5", ".NET4.5", "{6EEA151D-D78A-4E59-8091-BDB9FF0B8D24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlib.Presentation", ".NET4.5\Atlib.Presentation\Atlib.Presentation.csproj", "{5A299FAB-96A6-491C-9E4C-2F94684A3954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A299FAB-96A6-491C-9E4C-2F94684A3954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A299FAB-96A6-491C-9E4C-2F94684A3954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A299FAB-96A6-491C-9E4C-2F94684A3954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A299FAB-96A6-491C-9E4C-2F94684A3954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A299FAB-96A6-491C-9E4C-2F94684A3954} = {6EEA151D-D78A-4E59-8091-BDB9FF0B8D24}
+	EndGlobalSection
+EndGlobal
