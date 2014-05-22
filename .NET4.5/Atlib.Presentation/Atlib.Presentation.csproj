@@ -56,6 +56,7 @@
     <Compile Include="Behaviors\ListViewBehavior.cs" />
     <Compile Include="Behaviors\ScrollViewerBehavior.cs" />
     <Compile Include="Behaviors\TreeViewBehavior.cs" />
+    <Compile Include="DragAndDropManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ScrollViewerUtilities.cs" />
   </ItemGroup>
