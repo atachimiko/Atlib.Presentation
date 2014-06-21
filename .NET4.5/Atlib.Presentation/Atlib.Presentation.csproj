@@ -56,6 +56,14 @@
     <Compile Include="Behaviors\ListViewBehavior.cs" />
     <Compile Include="Behaviors\ScrollViewerBehavior.cs" />
     <Compile Include="Behaviors\TreeViewBehavior.cs" />
+    <Compile Include="Converters\BooleanInverseConverter.cs" />
+    <Compile Include="Converters\BooleanToUnVisibilityConverter.cs" />
+    <Compile Include="Converters\BooleanToVisibilityConverter.cs" />
+    <Compile Include="Converters\InputTextDecimalConverter.cs" />
+    <Compile Include="Converters\InputTextInteger64Converter.cs" />
+    <Compile Include="Converters\InputTextIntegerConverter.cs" />
+    <Compile Include="Converters\TextRemoveClrfConverter.cs" />
+    <Compile Include="Converters\WhiteSpaceRemoveConverter.cs" />
     <Compile Include="DependencyObjectExtensions.cs" />
     <Compile Include="DragAndDropManager.cs" />
     <Compile Include="ParameterCallMethodAction.cs" />
