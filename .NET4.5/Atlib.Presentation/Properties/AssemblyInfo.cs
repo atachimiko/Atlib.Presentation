@@ -33,9 +33,10 @@ using System.Windows.Markup;
 // すべての値を指定するか、下のように '*' を使ってビルドおよびリビジョン番号を 
 // 既定値にすることができます:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.6.0")]
-[assembly: AssemblyFileVersion("1.0.6.0")]
+[assembly: AssemblyVersion("1.0.8.0")]
+[assembly: AssemblyFileVersion("1.0.8.0")]
 
+[assembly: XmlnsDefinition("http://schemas.atachimiko.net/atlib", "Atlib.Presentation")]
 [assembly: XmlnsDefinition("http://schemas.atachimiko.net/atlib", "Atlib.Presentation.Behaviors")]
 [assembly: XmlnsDefinition("http://schemas.atachimiko.net/atlib", "Atlib.Presentation.Converters")]
 [assembly: XmlnsPrefix("http://schemas.atachimiko.net/atlib", "atlib")]
